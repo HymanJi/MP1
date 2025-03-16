@@ -6,14 +6,14 @@ export * from './career'
 export const name = 'Hyman Ji'
 export const headline = 'Undergraduate at University of Electronic Science and Technology of China.'
 export const introduction =
-  "Hi, everyone! My name is Hyman Ji. My major is Information and Communication Engineering. My research interest interests focus on wireless communication. I focus on improving myself constantly."
+  "Hi, everyone! My name is Hyman Ji. My major is Information and Communication Engineering. My research interest interests focus on wireless communication. I am looking forward to improving myself constantly."
 export const email = 'hymanji@qq.com'
 export const githubUsername = 'HymanJi'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
 export const aboutParagraphs = [
-  "Hi, everyone! My name is Hyman Ji. My major is Information and Communication Engineering. My research interests focus on wireless communication . I focus on improving myself constantly.",
+  "Hi, everyone! My name is Hyman Ji. My major is Information and Communication Engineering. My research interests focus on wireless communication . I am looking forward to improving myself constantly.",
   'Currently I am working on a project on MIMO-OFDM.',
   "I started this blog to share the insights I learn every day. Most blogs focus on wireless communication, algorithm implementation and some life lessons I've learned.",
 ]

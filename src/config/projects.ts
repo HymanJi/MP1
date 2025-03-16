@@ -20,16 +20,16 @@ export const awardsIntro = "Recognition for academic and professional achievemen
 
 export const awards: Array<ActivityItemType> = [
   {
-    name: 'Outstanding Teacher Award',
+    name: 'Provincial Excellent Graduate',
     description: '',
-    date: '2024',
-    location: 'SCLS, Shanghai',
+    date: '2025',
+    location: 'UESTC, Chengdu',
   },
   {
-    name: 'Zhui Ying Award',
+    name: '虚位以待',
     description: '',
-    date: '2023',
-    location: 'Qingpu, Shanghai',
+    date: '',
+    location: '',
   },
 ]
 
@@ -39,27 +39,27 @@ export const projectIntro = "Academic research and technical projects I've worke
 
 export const projects: Array<ProjectItemType> = [
   {
-    name: 'Student Final Project Portfolio',
-    description: 'Static website portfolio',
+    name: '虚位以待',
+    description: '',
     link: { href: 'scls-cs.com', label: 'GitHub Cards' },
-    tags: ['Website', 'Next.js', 'TailwindCSS', 'DaisyUI', 'Portfolio']
+    tags: ['标签1', '标签1', '标签1', '标签1', '标签1']
   },
   {
-    name: 'Seeking DNA',
-    description: '2022 SCLS Hackathon',
-    link: { href: 'https://scls-cs.gitbook.io/scls-apcs-lab/lab5-dna', label: 'Hackathon' },
-    tags: ['Hackathon', 'Java']
+    name: '虚位以待',
+    description: '',
+    link: { href: '网址', label: '标签1' },
+    tags: ['标签1', '标签1']
   },
   {
-    name: 'Texas Holdem Poker Judge',
-    description: '2024 SCLS Hackathon',
-    link: { href: 'https://onecompiler.com/challenges/42yf4n5yn/scls-hackathon', label: 'Hackathon' },
-    tags: ['Hackathon']
+    name: '虚位以待',
+    description: '',
+    link: { href: '网站', label: '标签1' },
+    tags: ['标签1']
   },
   {
-    name: 'AI Camp Course Development',
-    description: 'Developed a comprehensive AI curriculum for high school students, incorporating real-world projects and startup concepts.',
-    link: { href: 'https://scls-cs.gitbook.io/ai-camp', label: 'View Course' },
+    name: '虚位以待',
+    description: '',
+    link: { href: '网站', label: 'View Course' },
     tags: ['Education', 'AI']
   },
 ]
@@ -70,26 +70,26 @@ export const activitiesIntro = "Personal interests and community contributions."
 
 export const activities: Array<ActivityItemType> = [
   {
-    name: 'Python Workshop',
+    name: '虚位以待',
     description:
-      'Teaching basic Python programming concepts to beginners. Covering variables, control flow, and functions.',
-    date: '2024-02-24',
-    location: 'Shanghai',
-    link: 'https://example.com/python-workshop',
+      '',
+    date: '',
+    location: '',
+    link: '网站',
   },
   {
-    name: 'AI Ethics Discussion',
+    name: '虚位以待',
     description:
-      'A group discussion about the ethical implications of AI development and its impact on society.',
-    date: '2024-03-01',
-    location: 'Shanghai',
-    link: 'https://example.com/ai-ethics',
+      '',
+    date: '',
+    location: '',
+    link: '网站',
   },
   {
-    name: 'Code Review Session',
+    name: '虚位以待',
     description:
-      'Helping students improve their coding skills through peer code review and best practices sharing.',
-    date: '2024-03-15',
-    location: 'Shanghai',
+      '',
+    date: '',
+    location: '',
   },
 ]
